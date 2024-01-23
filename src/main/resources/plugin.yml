@@ -1,0 +1,7 @@
+name: ExplodingRockets
+version: '${project.version}'
+main: myron.explodingrockets.ExplodingRockets
+api-version: '1.20'
+commands:
+  rocket:
+    description: Give Explosive Firework
